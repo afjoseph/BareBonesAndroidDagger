@@ -10,4 +10,8 @@ class Db {
     fun fetchData() {
         Log.d("Db", "Fetching data...")
     }
+
+    fun initDb() {
+        Log.d("Db", "Db is initialized")
+    }
 }
