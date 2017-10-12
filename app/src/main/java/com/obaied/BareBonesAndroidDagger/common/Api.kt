@@ -1,4 +1,4 @@
-package com.obaied.BareBonesAndroidDagger.common
+package com.joseph.BareBonesAndroidDagger.common
 
 import android.util.Log
 

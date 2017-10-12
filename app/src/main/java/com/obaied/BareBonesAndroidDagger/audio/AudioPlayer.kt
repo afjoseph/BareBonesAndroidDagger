@@ -1,4 +1,4 @@
-package com.obaied.BareBonesAndroidDagger.audio
+package com.joseph.BareBonesAndroidDagger.audio
 
 import android.app.Activity
 import android.widget.Toast

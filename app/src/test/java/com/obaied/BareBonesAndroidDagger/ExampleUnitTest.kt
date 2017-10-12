@@ -1,4 +1,4 @@
-package com.obaied.BareBonesAndroidDagger
+package com.joseph.BareBonesAndroidDagger
 
 import org.junit.Test
 

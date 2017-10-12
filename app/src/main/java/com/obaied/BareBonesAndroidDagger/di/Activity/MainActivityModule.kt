@@ -1,7 +1,7 @@
-package com.obaied.BareBonesAndroidDagger.di.Activity
+package com.joseph.BareBonesAndroidDagger.di.Activity
 
-import com.obaied.BareBonesAndroidDagger.ui.MainActivity
-import com.obaied.BareBonesAndroidDagger.audio.AudioPlayer
+import com.joseph.BareBonesAndroidDagger.ui.MainActivity
+import com.joseph.BareBonesAndroidDagger.audio.AudioPlayer
 import dagger.Module
 import dagger.Provides
 

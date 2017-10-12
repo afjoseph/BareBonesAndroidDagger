@@ -1,4 +1,4 @@
-package com.obaied.BareBonesAndroidDagger
+package com.joseph.BareBonesAndroidDagger
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

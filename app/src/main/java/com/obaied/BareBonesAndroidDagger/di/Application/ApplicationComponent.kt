@@ -1,8 +1,8 @@
-package com.obaied.BareBonesAndroidDagger.di.Application
+package com.joseph.BareBonesAndroidDagger.di.Application
 
 import android.app.Application
-import com.obaied.BareBonesAndroidDagger.MyApplication
-import com.obaied.BareBonesAndroidDagger.di.Activity.ActivityBuilder
+import com.joseph.BareBonesAndroidDagger.MyApplication
+import com.joseph.BareBonesAndroidDagger.di.Activity.ActivityBuilder
 import dagger.Component
 import dagger.android.AndroidInjectionModule
 import dagger.android.AndroidInjector

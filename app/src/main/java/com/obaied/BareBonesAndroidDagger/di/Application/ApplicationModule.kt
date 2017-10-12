@@ -1,7 +1,7 @@
-package com.obaied.BareBonesAndroidDagger.di.Application
+package com.joseph.BareBonesAndroidDagger.di.Application
 
-import com.obaied.BareBonesAndroidDagger.common.Api
-import com.obaied.BareBonesAndroidDagger.common.Db
+import com.joseph.BareBonesAndroidDagger.common.Api
+import com.joseph.BareBonesAndroidDagger.common.Db
 import dagger.Module
 import dagger.Provides
 import javax.inject.Singleton

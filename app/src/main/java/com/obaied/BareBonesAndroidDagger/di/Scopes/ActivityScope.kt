@@ -1,4 +1,4 @@
-package com.obaied.BareBonesAndroidDagger.di.Scopes
+package com.joseph.BareBonesAndroidDagger.di.Scopes
 
 import javax.inject.Scope
 

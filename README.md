@@ -123,7 +123,7 @@ Notice here that the two dependencies, `api: Api` and `db: Db` are common depend
 
 In contrast, there is a third dependency that is special only for `MainActivity`, which is `audioPlayer: AudioPlayer`. This dependency is provided by `MainActivityModule`.
 
-# Class Breakdown: `BaseActivity`
+## Class Breakdown: `BaseActivity`
 
 ```
 abstract class BaseActivity : AppCompatActivity() {
@@ -137,7 +137,7 @@ abstract class BaseActivity : AppCompatActivity() {
 
 As mentioned above, `BaseActivity` is responsible for handling the Dagger injection. No need for any special overrides to the `onCreate()` in the inheritance chain.
 
-# Class Breakdown: `MyApplication`
+## Class Breakdown: `MyApplication`
 
 ```
 class MyApplication : Application(),

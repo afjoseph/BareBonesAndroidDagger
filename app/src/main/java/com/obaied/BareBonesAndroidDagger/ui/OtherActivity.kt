@@ -1,9 +1,9 @@
-package com.obaied.BareBonesAndroidDagger.ui
+package com.joseph.BareBonesAndroidDagger.ui
 
 import android.os.Bundle
-import com.obaied.BareBonesAndroidDagger.R
-import com.obaied.BareBonesAndroidDagger.common.Api
-import com.obaied.BareBonesAndroidDagger.common.Db
+import com.joseph.BareBonesAndroidDagger.R
+import com.joseph.BareBonesAndroidDagger.common.Api
+import com.joseph.BareBonesAndroidDagger.common.Db
 import kotlinx.android.synthetic.main.activity_other.*
 import javax.inject.Inject
 
